@@ -1,5 +1,6 @@
 """Functions for downloading and reading MNIST data."""
 from __future__ import print_function
+import tensorflow as tf
 import gzip
 import os
 import urllib
