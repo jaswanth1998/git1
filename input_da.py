@@ -1,5 +1,6 @@
 """Functions for downloading and reading MNIST data."""
 """"testing the sublime """"
+""""checking the pull request"""
 """ntg much"""
 from __future__ import print_function
 import tensorflow as tf
