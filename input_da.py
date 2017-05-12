@@ -1,4 +1,5 @@
 """Functions for downloading and reading MNIST data."""
+""" learning the git hub"""
 from __future__ import print_function
 import tensorflow as tf
 import gzip
